@@ -1,3 +1,3 @@
-# Teste
+# Opinion Dynamic Games under One Step Ahead Optimal Control
 
-This page blablabla
+This page contain
